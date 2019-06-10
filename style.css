@@ -1,0 +1,17 @@
+h1{
+  font-family: 'Baloo Da', cursive;
+  font-size: 49px;
+}
+h2{
+  font-family: 'Questrial', sans-serif;
+  font-style: 49px;
+}
+ol {
+  font-family: 'Questrial', sans-serif;
+    font-style: 49px;
+}
+img { object-fit: cover;
+  border: 5px solid;
+  margin: 30px;
+  padding: 10px;
+}
